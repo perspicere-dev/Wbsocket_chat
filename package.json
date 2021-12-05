@@ -1,0 +1,11 @@
+{
+  "name": "Wbsocket_chat",
+  "version": "1.0.0",
+  "repository": "git@github.com:perspicere-dev/Wbsocket_chat.git",
+  "author": "Przemysław Wnęk <wnek.przemek@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+
+}
