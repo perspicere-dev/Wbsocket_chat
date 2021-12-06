@@ -5,7 +5,10 @@
   "author": "Przemysław Wnęk <wnek.przemek@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.17.1",
     "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
   }
-
 }
